@@ -1,4 +1,4 @@
-![logo](https://as1.ftcdn.net/v2/jpg/05/87/73/00/1000_F_587730047_WMjuevQ1o9OxfJlqqbco8v3gQiNDNHFa.jpg)
+![logo](https://www.anques.com/wp-content/uploads/2019/07/software-development.jpg)
 <h1 align="center">Hi 👋, I'm Kiran Ramesh Katekar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
